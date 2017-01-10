@@ -21,4 +21,6 @@ Data is fetched form Dark Sky Api (https://darksky.net)
 
 for example 
 $ node app.js 6.5244 3.3792 will return the current weather of lagos
-$ node app.js 4.8156 7.0498 will return the current weather of port hacourt	
+$ node app.js 37.0902 -95.7129 will return the current weather of chicago
+
+minus(-) sign to represent west and south 
