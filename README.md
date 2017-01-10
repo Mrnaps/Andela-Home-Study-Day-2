@@ -5,7 +5,7 @@ Assignment 1
 =====================
 assignment 1: counts words in a string and returns how many times the word occurs (./wordcount)
 
-Known Bug: the last test failed, retruns as object. still figuring out a wor around.
+Known Bug: the last test failed, retruns as object. still figuring out a work around.
 
 
 Assignment 2
